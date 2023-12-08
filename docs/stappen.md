@@ -21,13 +21,11 @@ Importeren naar Database
 ----------------
 Het importeren van de producten vanuit de XML bestanden naar de database gebeurd elke 5 minuten. Dit houdt in dat er elke 5 minuten gekeken wordt of er een XML bestand klaar staat op de website server.
 
-For example:
-
-```python
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-```
+[//]: # (```python)
+[//]: # (>>> import lumache)
+[//]: # (>>> lumache.get_random_ingredients&#40;&#41;)
+[//]: # (['shells', 'gorgonzola', 'parsley'])
+[//]: # (```)
 Importeren naar Wordpress
 ----------------
 
