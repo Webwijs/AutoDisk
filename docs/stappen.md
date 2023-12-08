@@ -21,18 +21,6 @@ Importeren naar Database
 ----------------
 Het importeren van de producten vanuit de XML bestanden naar de database gebeurd elke 5 minuten. Dit houdt in dat er elke 5 minuten gekeken wordt of er een XML bestand klaar staat op de website server.
 
-To retrieve a list of random ingredients, you can use the
-`lumache.get_random_ingredients()` function:
-
-::: lumache.get_random_ingredients
-    options:
-      show_root_heading: true
-
-<br>
-
-The `kind` parameter should be either `"meat"`, `"fish"`, or `"veggies"`.
-Otherwise, [`get_random_ingredients`][lumache.get_random_ingredients] will raise an exception [`lumache.InvalidKindError`](/api#lumache.InvalidKindError).
-
 For example:
 
 ```python
