@@ -19,7 +19,8 @@ Door de waarde van het veld 'Geaccepteerde label ID's' te wijzigen kunnen er pro
 
 Importeren naar Database
 ----------------
-Het importeren van 
+Het importeren van de producten vanuit de XML bestanden naar de database gebeurd elke 5 minuten. Dit houdt in dat er elke 5 minuten gekeken wordt of er een XML bestand klaar staat op de website server.
+
 To retrieve a list of random ingredients, you can use the
 `lumache.get_random_ingredients()` function:
 
