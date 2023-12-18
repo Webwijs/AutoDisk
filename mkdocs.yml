@@ -1,4 +1,5 @@
 site_name: AutoDisk PricingManager koppeling
+copyright: Copyright &copy; 2023 Webwijs v.o.f.
 theme:
   name: readthedocs
   highlightjs: true
@@ -14,6 +15,18 @@ markdown_extensions:
   - markdown_include.include:
       base_path: .
   - admonition
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/Webwijs
+      name: Webwijs op Facebook
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/webwijs/
+      name: Webwijs op Instagram
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/3049932/admin/feed/posts/
+      name: Webwijs op Linkedin
 nav:
   - Introductie: 'index.md'
   - Process: 'stappen.md'
