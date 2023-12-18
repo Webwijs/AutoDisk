@@ -20,4 +20,4 @@ Het Delete endpoint zorgt ervoor dat wanneer een product in de PricingManager ve
 
 Daarnaast wordt de productdata die opgeslagen staat in de Database verwijderd en ook de productafbeeldingen worden verwijderd.
 
-Voor Frieslandlease is dit endpoint: `https://www.frieslandlease.nl/autodisk/delete`
+Voor Frieslandlease is dit endpoint: `https://www.frieslandlease.nl/autodisk/delete` 
