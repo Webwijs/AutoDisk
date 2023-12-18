@@ -16,4 +16,5 @@ markdown_extensions:
   - admonition
 nav:
   - Introductie: 'index.md'
-  - 'stappen.md'
+  - Process: 'stappen.md'
+  - Endpoints: 'endpoints.md'
