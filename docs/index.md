@@ -1,4 +1,4 @@
-# Welkom bij de AutoDisk PricingManager koppeling documentatie!
+# Welkom bij de AutoDisk PricingManager koppeling documentatie
 
 De **AutoDisk PricingManager** koppeling is een PHP module geschreven voor het Webwijs Wordpress thema.
 
