@@ -3,7 +3,7 @@ Endpoints
 
 Er zijn 2 endpoints die in de PricingManager ingesteld kunnen worden. 
 - Update
-- Delete
+- Deletes
 
 Update
 ------------
